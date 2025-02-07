@@ -1,0 +1,26 @@
+.dark-mode {
+    background-color: #686767;
+    color: #ffffff;
+}
+
+.dark-mode header, 
+.dark-mode footer, 
+.dark-mode .menu-mobile {
+    background-color: #1e1e1e;
+}
+
+.dark-mode .btn-contato button {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #fff;
+}
+
+.dark-mode .btn-contato button:hover {
+    background-color: #444;
+}
+
+.dark-mode .modo-escuro-container button {
+    background-color: #fff;
+    color: #121212;
+    border: 1px solid #121212;
+}
